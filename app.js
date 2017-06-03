@@ -5,18 +5,10 @@ import ReactDOM from 'react-dom';
 const INITIAL_STATE = {
   players: [
     {
-      name: "Jim Hoskins",
-      score: 31,
-    },
-    {
-      name: "Andrew Chalkley",
-      score: 20,
-    },
-    {
-      name: "Alena Holligan",
-      score: 50,
-    },
-  ],
+      name: "Player 1",
+      score: 24,
+    }
+  ]
 }
 
 
