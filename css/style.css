@@ -24,7 +24,7 @@ body {
 
 }
 
-.header {
+.scoreboard-header {
   padding: 5px 10px;
   text-align: center;
   display: flex;
@@ -34,15 +34,15 @@ body {
   border-bottom: solid 4px #FFCF74;
 }
 
-.header h1 {
+.scoreboard-header h1 {
   color: #FFCF74;
   flex-grow: 1;
   font-size: 1.5em;
   letter-spacing: 3px;
 }
 
-.header .stats,
-.header .stopwatch {
+.scoreboard-header .stats,
+.scoreboard-header .stopwatch {
   width: 170px;
 }
 
